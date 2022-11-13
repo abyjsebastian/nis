@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+client_dist
+dist
+.cache
+*node_modules*
+.parcel-cache
+
